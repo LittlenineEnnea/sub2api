@@ -160,7 +160,7 @@ main() {
     echo "     docker-compose logs -f sub2api"
     echo ""
     echo "  4. Access Web UI:"
-    echo "     http://localhost:8080"
+    echo "     http://localhost:8081"
     echo ""
     print_info "If admin password is not set in .env, it will be auto-generated."
     print_info "Check logs for the generated admin password on first startup."
